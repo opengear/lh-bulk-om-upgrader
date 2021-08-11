@@ -8,7 +8,7 @@ Bulk upgrade OM firmware via LH
 Notes:
 - Edit global variables in lh_bulk_upgrader.py
   - group = 'group1'        # Smart group name in LH 
-  - fwVersion = '21.Q2.1'   # Update version - temp note: changed to trigger push
+  - fwVersion = '21.Q2.1'   # Update version
   - fwName = 'file.raucb'   # Update filename
 
 - Edit Lighthouse credentials in creds.py
