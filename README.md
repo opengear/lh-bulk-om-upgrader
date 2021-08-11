@@ -13,3 +13,5 @@ Notes:
 
 - Edit Lighthouse credentials in creds.py
 
+- Copy update file in Lighthouse to /mnt/nvram
+
